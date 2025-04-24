@@ -1,0 +1,4 @@
+name: HungerGames
+version: '1.0-SNAPSHOT'
+main: dev.decduck3.HungerGames.HungerGames
+api-version: '1.21'

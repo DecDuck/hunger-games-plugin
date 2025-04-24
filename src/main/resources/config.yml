@@ -1,0 +1,8 @@
+# list of world names to import as areans
+arenas:
+  - arena_1
+  - arena_2
+# world name for lobby
+lobby: lobby
+# this will only need to be increased for massive arenas
+chunkRange: 500
