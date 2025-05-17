@@ -44,6 +44,10 @@ arenas:
 
 ✅ Your arena is now active and ready for Hunger Games matches!
 
+
+📘 Need more help building your arena?
+See the [Arena Creation Guide](./GUIDE.md) for detailed instructions on spawnpoints, chests, and world borders.
+
 ---
 
 ## 📣 Contribute
