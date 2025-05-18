@@ -43,9 +43,9 @@ To ensure players interact and the match doesn't drag on, it's highly recommende
 
 - Use Minecraft’s `/worldborder` command to define a boundary:
 
-  ```bash
+  ```
   /worldborder set <diameter>
-````
+  ```
 
 * Set the world border **centered around your arena** spawnpoints.
 
